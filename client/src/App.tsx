@@ -20,7 +20,7 @@ import {
 
 function App() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-white container mx-auto px-4">
       <Header />
       <main>
         <Hero />
